@@ -1,7 +1,7 @@
 ## Game Engine • Игровой движок
 # «Native Engine»
 
-![Изображение](images/Bluesky-Horizontal.png "Логотип Markdown")
+![Native Engine Banner](images/Bluesky-Horizontal.png)
 
 ### DEVELOPED WITHOUT LOOKING AT OTHER ENGINES
 ### РАЗРАБАТЫВАЕТСЯ БЕЗ ОГЛЯДКИ НА ДРУГИЕ ДВИЖКИ
