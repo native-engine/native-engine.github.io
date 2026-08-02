@@ -66,3 +66,7 @@ LIBRARIES AND APIS
 Импорт-экспорт изображений: stb (JPEG, PNG, BMP, TGA, GIF, PSD, HDR, PIC и PNM)
 Блочная компрессия текстурных карт: NVIDIA Texture Tools SDK
 
+---
+
+### © 2017-2026 Daniil Petrov • Даниил Петров
+
