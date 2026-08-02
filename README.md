@@ -21,8 +21,8 @@ RPG и Quest с возможностью выбора управления от 
 
 ---
 
-[YouTube] (https://www.youtube.com/@native-engine) •
-[BlueSky] (https://bsky.app/profile/native-engine.bsky.social)
+[YouTube](https://www.youtube.com/@native-engine) •
+[BlueSky](https://bsky.app/profile/native-engine.bsky.social)
 
 ---
 
