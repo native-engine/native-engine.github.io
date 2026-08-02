@@ -2,8 +2,7 @@
 
 ![Native Engine Banner](images/Manjaro Linux.png)
 
-SOFTWARE
-ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ
+## SOFTWARE • ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ
 
 Операционная система: Manjaro Linux + KDE Plasma
 Веб-браузер: Chromium
@@ -28,8 +27,7 @@ SOFTWARE
 и слишком мало поддерживаемых кодеков](https://wiki.archlinux.org/title/DaVinci_Resolve#MP4,_H.264,_H.265_and_AAC_Support)
 
 
-AUXILIARY UTILITIES
-ВСПОМОГАТЕЛЬНЫЕ УТИЛИТЫ
+## AUXILIARY UTILITIES • ВСПОМОГАТЕЛЬНЫЕ УТИЛИТЫ
 
 Издательство: PDF Mix Tool и PDFsam Basic *
 Работа со шрифтами: Font Manager и Gucharmap
@@ -49,8 +47,7 @@ Windows-рантайм для Линукса Wine, шестнадцатирич�
 с объединением двухстраничных портретных разворотов в одну альбомную страницу
 
 
-БИБЛИОТЕКИ И API
-LIBRARIES AND APIS
+## БИБЛИОТЕКИ И API • LIBRARIES AND APIS
 
 Платформенный код для ОС Linux и Windows: SDL
 Графика: Vulkan + OpenGL Mathematics
