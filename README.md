@@ -1,4 +1,4 @@
-# Game Engine • Игровой движок «Native Engine»
+# Game Engine • Игровой движок «NATiVE ENGiNE»
 
 ![Native Engine Banner](images/Bluesky-Horizontal.png)
 
