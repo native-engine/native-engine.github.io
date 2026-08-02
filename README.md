@@ -2,6 +2,14 @@
 
 ![Native Engine Banner](images/Bluesky-Horizontal.png)
 
+•
+[Tools](TOOLS.md) •
+[BlueSky](https://bsky.app/profile/native-engine.bsky.social) •
+[YouTube](https://www.youtube.com/@native-engine)
+•
+
+---
+
 I'm developing the «Native Engine» for my future 3D action, RPG, and quest projects,
 featuring first- and third-person controls, and aimed at those who enjoy a good game in their spare time.
 The engine is being developed and optimized for Linux and Windows PCs from the start; support for other platforms is not planned.
@@ -18,13 +26,6 @@ RPG и Quest с возможностью выбора управления от 
 В этом случае десктоп и VR будут поддерживаться одним дистрибутивом без разделения на десктопный и VR-дистрибутивы.
 Архитектура движка оптимизирована под многоядерные процессоры,
 а игровые форматы сбалансированы под оптимальное соотношение «размер / качество / скорость декомпрессии».
-
----
-
-•
-[BlueSky](https://bsky.app/profile/native-engine.bsky.social) •
-[YouTube](https://www.youtube.com/@native-engine)
-•
 
 ---
 
