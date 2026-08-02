@@ -2,9 +2,6 @@
 
 ![Native Engine Banner](images/Bluesky-Horizontal.png)
 
-### DEVELOPED WITHOUT LOOKING AT OTHER ENGINES
-### РАЗРАБАТЫВАЕТСЯ БЕЗ ОГЛЯДКИ НА ДРУГИЕ ДВИЖКИ
-
 I'm developing the «Native Engine» for my future 3D action, RPG, and quest projects,
 featuring first- and third-person controls, and aimed at those who enjoy a good game in their spare time.
 The engine is being developed and optimized for Linux and Windows PCs from the start; support for other platforms is not planned.
