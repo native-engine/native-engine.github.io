@@ -1,5 +1,6 @@
-WORKING TOOLS USED
-ИСПОЛЬЗУЕМЫЙ РАБОЧИЙ ИНСТРУМЕНТАРИЙ
+### WORKING TOOLS USED • ИСПОЛЬЗУЕМЫЙ РАБОЧИЙ ИНСТРУМЕНТАРИЙ
+
+![Native Engine Banner](images/Manjaro Linux.webp)
 
 SOFTWARE
 ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ
