@@ -24,8 +24,8 @@ SOFTWARE
 Компиляторы: GCC и Crosstool-NG для актуальной и старых версий ОС Linux и MinGW-w64 для ОС Windows
 
 —————————————————————————
-* видеоредактор Davinci Resolve довольно затруднительно скачать, поддерживает далеко не все видеокарты
-и слишком мало поддерживаемых кодеков: https://wiki.archlinux.org/title/DaVinci_Resolve#MP4,_H.264,_H.265_and_AAC_Support
+* [видеоредактор Davinci Resolve довольно затруднительно скачать, поддерживает далеко не все видеокарты
+и слишком мало поддерживаемых кодеков](https://wiki.archlinux.org/title/DaVinci_Resolve#MP4,_H.264,_H.265_and_AAC_Support)
 
 
 AUXILIARY UTILITIES
