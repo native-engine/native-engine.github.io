@@ -4,28 +4,28 @@
 
 ## SOFTWARE • ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ
 
-* Операционная система: Manjaro Linux + KDE Plasma
-* Веб-браузер: Chromium
-* Офисный пакет: OnlyOffice
-* Файловый менеджер: Double Commander
+* Операционная система: [Manjaro Linux](https://manjaro.org/) + [KDE Plasma](https://kde.org/plasma-desktop/)
+* Веб-браузер: [Chromium](https://www.chromium.org/Home/)
+* Офисный пакет: [OnlyOffice](https://www.onlyoffice.com/)
+* Файловый менеджер: [Double Commander](https://doublecmd.sourceforge.io/)
 
 ---
 
-* Растровый редактор: GIMP
-* Векторный редактор: Inkscape
-* Издательская система: Scribus
-* Редактор шрифтов: FontForge
+* Растровый редактор: [GIMP](https://www.gimp.org/)
+* Векторный редактор: [Inkscape](https://inkscape.org/)
+* Издательская система: [Scribus](https://www.scribus.net/)
+* Редактор шрифтов: [FontForge](https://fontforge.org/en-US/)
 
 ---
 
-* 3D-графика и моушн-дизайн: Blender
-* Редактор видеомонтажа: Kdenlive *
-* Звуковой редактор: Audacity
-* Цифровая звуковая рабочая станция: Ardour
+* 3D-графика и моушн-дизайн: [Blender](https://www.blender.org/)
+* Редактор видеомонтажа: [Kdenlive](https://kdenlive.org/?mtm_kwd=homepage) *
+* Звуковой редактор: [Audacity](https://www.audacityteam.org/)
+* Цифровая звуковая рабочая станция: [Ardour](https://ardour.org/)
 
 ---
 
-* Среда разработки и RAD-редактор: Qt
+* Среда разработки и RAD-редактор: [Qt](https://www.qt.io/)
 * Компиляторы: GCC и Crosstool-NG для актуальной и старых версий ОС Linux и MinGW-w64 для ОС Windows
 
 ---
@@ -56,23 +56,22 @@
 
 ## БИБЛИОТЕКИ И API • LIBRARIES AND APIS
 
-* Платформенный код для ОС Linux и Windows: SDL
-* Графика: Vulkan + OpenGL Mathematics
-* Звук: OpenAL Soft + Ogg Vorbis
-* Видео: FFmpeg + dav1d (AV1) + Opus
+* Платформенный код для ОС Linux и Windows: [SDL](https://www.libsdl.org/)
+* Графика: [Vulkan](https://vulkan.lunarg.com/sdk/home) + [OpenGL Mathematics](https://github.com/g-truc/glm)
+* Звук: [OpenAL Soft](https://github.com/kcat/openal-soft) + [Ogg Vorbis](https://xiph.org/downloads/)
 
 ---
 
-* Физика: Jolt Physics
-* Скриптовый язык: Lua
-* Компрессия игровых архивов: LZ4
-* Загрузка-сохранение настроек: inifile-cpp
+* Физика: [Jolt Physics](https://github.com/jrouwe/JoltPhysics)
+* Скриптовый язык: [Lua](https://www.lua.org/download.html)
+* Компрессия игровых архивов: [LZ4](https://github.com/lz4/lz4)
+* Загрузка-сохранение настроек: [inifile-cpp](https://github.com/Rookfighter/inifile-cpp)
 
 ---
 
-* Импорт-экспорт и оптимизация glTF-моделей: cglTF + Draco mesh + Mesh optimizer
-* Импорт-экспорт изображений: stb (JPEG, PNG, BMP, TGA, GIF, PSD, HDR, PIC и PNM)
-* Блочная компрессия текстурных карт: NVIDIA Texture Tools SDK
+* Импорт-экспорт и оптимизация glTF-моделей: [cglTF](https://github.com/jkuhlmann/cgltf) + [Draco mesh](https://github.com/google/draco) + [Mesh optimizer](https://github.com/zeux/meshoptimizer)
+* Импорт-экспорт изображений: [stb](https://github.com/nothings/stb) (JPEG, PNG, BMP, TGA, GIF, PSD, HDR, PIC и PNM)
+* Блочная компрессия текстурных карт: NVIDIA [Texture Tools SDK](https://developer.nvidia.com/gpu-accelerated-texture-compression)
 
 ---
 
