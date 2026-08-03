@@ -30,6 +30,8 @@
 
 ![Native Engine Banner](images/Kdenlive.png)
 
+> [Davinci Resolve video editor is quite difficult to download, does not support all video cards, and has very few supported codecs](https://wiki.archlinux.org/title/DaVinci_Resolve#MP4,_H.264,_H.265_and_AAC_Support)
+
 > [видеоредактор Davinci Resolve довольно затруднительно скачать, поддерживает далеко не все видеокарты и слишком мало поддерживаемых кодеков](https://wiki.archlinux.org/title/DaVinci_Resolve#MP4,_H.264,_H.265_and_AAC_Support)
 
 
@@ -50,6 +52,8 @@
 * Мультимедиа: программа для записи экрана Open Broadcaster Software, аппаратный видеоконвертер HandBrake, видеопроигрыватель MPV и аудиоплеер Audacious
 
 ![Native Engine Banner](images/OBS Studio.png)
+
+> Scribus, a page layout editor, is unable to export PDFs that combine two-page portrait spreads into a single landscape page
 
 > редактор вёрстки Scribus не способен экспортировать PDF-издания с объединением двухстраничных портретных разворотов в одну альбомную страницу
 
