@@ -58,7 +58,7 @@
 > редактор вёрстки Scribus не способен экспортировать PDF-издания с объединением двухстраничных портретных разворотов в одну альбомную страницу
 
 
-## БИБЛИОТЕКИ И API • LIBRARIES AND APIS
+## LIBRARIES AND APIS • БИБЛИОТЕКИ И API
 
 * Платформенный код для ОС Linux и Windows: [SDL](https://www.libsdl.org/)
 * Графика: [Vulkan](https://vulkan.lunarg.com/sdk/home) + [OpenGL Mathematics](https://github.com/g-truc/glm)
