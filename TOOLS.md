@@ -37,8 +37,8 @@
 
 ## AUXILIARY UTILITIES • ВСПОМОГАТЕЛЬНЫЕ УТИЛИТЫ
 
-* Издательство: PDF Mix Tool и PDFsam Basic *
-* Работа со шрифтами: Font Manager и Gucharmap
+* Издательство: PDF Mix Tool + PDFsam Basic *
+* Работа со шрифтами: Font Manager + Gucharmap
 * Программа для организации референсов: PureRef
 * Написание музыки: обёртка Windows-плагинов Yabridge
 * Контейнеры для ПО: AppImage для ОС Linux и Inno Setup для ОС Windows
