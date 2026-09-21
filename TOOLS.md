@@ -45,9 +45,13 @@
 
 ---
 
+* Development: Kate shader and script editor, CMake build system, Ccache compilation cache, AddressSanitizer memory error detector, MangoHud graphics monitoring overlay, Wine Windows runtime for Linux, Okteta hex editor
+
 * Разработка: редактор шейдеров и скриптов Kate, система сборки CMake, кэш компиляции Ccache, отладчик использования памяти AddressSanitizer, оверлей для мониторинга графики MangoHud, Windows-рантайм для Линукса Wine, шестнадцатиричный редактор Okteta
 
 ---
+
+* Multimedia: Open Broadcaster Software screen recording program, HandBrake hardware video converter, MPV video player, and Audacious audio player
 
 * Мультимедиа: программа для записи экрана Open Broadcaster Software, аппаратный видеоконвертер HandBrake, видеопроигрыватель MPV и аудиоплеер Audacious
 
