@@ -73,7 +73,7 @@
 * Physics • Физика: [Jolt Physics](https://github.com/jrouwe/JoltPhysics)
 * Scripting language • Скриптовый язык: [Lua](https://www.lua.org/download.html)
 * Compression of game archives • Компрессия игровых архивов: [LZ4](https://github.com/lz4/lz4)
-* Loading and saving settingsм Загрузка-сохранение настроек: [inifile-cpp](https://github.com/Rookfighter/inifile-cpp)
+* Loading and saving settingsм • Загрузка-сохранение настроек: [inifile-cpp](https://github.com/Rookfighter/inifile-cpp)
 
 ---
 
