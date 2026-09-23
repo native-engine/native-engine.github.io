@@ -19,7 +19,7 @@
 ---
 
 * 3D graphics and motion design • 3D-графика и моушн-дизайн: [Blender](https://www.blender.org/)
-* Video editor • Редактор видеомонтажа: [Kdenlive](https://kdenlive.org/?mtm_kwd=homepage) *
+* Video editor • Редактор видеомонтажа: [Kdenlive](https://kdenlive.org/) *
 * Sound editor • Звуковой редактор: [Audacity](https://www.audacityteam.org/)
 * Digital audio workstation • Цифровая звуковая рабочая станция: [Ardour](https://ardour.org/)
 
