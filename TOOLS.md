@@ -1,14 +1,12 @@
 ## WORKING TOOLS USED • ИСПОЛЬЗУЕМЫЙ РАБОЧИЙ ИНСТРУМЕНТАРИЙ
 
-![Native Engine Banner](images/Manjaro Linux.png)
-
-## SOFTWARE • ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ
-
 I have never been a proponent of Russian software — let alone Russian internet services — and have always considered myself an independent developer rather than a Russian one; when the Runet completely degraded, it lost all credibility in my eyes, so I deleted my only Russian-language blog and no longer wish to promote myself within the Runet.
 
 Я никогда не был сторонником ни российского программного обеспечения, ни тем более российских интернет-сервисов, и всегда считал себя не российским, а именно независимым разработчиком, а когда рунет полностью деградировал, то окончательно опустился в моих глазах и я удалил свой единственный русскоязычный блог и больше не желаю продвигаться в рунете.
 
----
+![Native Engine Banner](images/Manjaro Linux.png)
+
+## SOFTWARE • ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ
 
 * Operating system • Операционная система: [Manjaro Linux](https://manjaro.org/) + [KDE Plasma](https://kde.org/plasma-desktop/)
 * Web browser • Веб-браузер: [Chromium](https://www.chromium.org/Home/)
