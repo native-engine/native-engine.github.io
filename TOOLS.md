@@ -1,8 +1,8 @@
 ## WORKING TOOLS USED • ИСПОЛЬЗУЕМЫЙ РАБОЧИЙ ИНСТРУМЕНТАРИЙ
 
-I have never been a proponent of Russian software — let alone Russian internet services — and have always considered myself an independent developer rather than a Russian one; when the Runet completely degraded, it lost all credibility in my eyes, so I deleted my only Russian-language blog and no longer wish to promote myself within the Runet.
+I have never been a proponent of Russian software—let alone Russian internet services—and have always considered myself an independent developer rather than a Russian one; when the Russian segment of the internet completely degraded, it lost all credibility in my eyes, so I deleted my only Russian-language blog and no longer wish to promote myself in Russia.
 
-Я никогда не был сторонником ни российского программного обеспечения, ни тем более российских интернет-сервисов, и всегда считал себя не российским, а именно независимым разработчиком, а когда рунет полностью деградировал, то окончательно опустился в моих глазах и я удалил свой единственный русскоязычный блог и больше не желаю продвигаться в рунете.
+Я никогда не был сторонником ни российского программного обеспечения, ни тем более российских интернет-сервисов, и всегда считал себя не российским, а именно независимым разработчиком, а когда рунет полностью деградировал, то окончательно опустился в моих глазах и я удалил свой единственный русскоязычный блог и больше не желаю продвигаться в России.
 
 ![Native Engine Banner](images/Manjaro Linux.png)
 
