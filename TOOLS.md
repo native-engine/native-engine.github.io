@@ -1,6 +1,6 @@
 ## WORKING TOOLS USED • ИСПОЛЬЗУЕМЫЙ РАБОЧИЙ ИНСТРУМЕНТАРИЙ
 
-I have never been a proponent of Russian software — let alone Russian internet services — and have always considered myself an independent developer rather than a Russian one; when Runet finally degraded to cater to the uncompetitive «Gazprom-Media», I deleted my Russian-language blog and no longer wish to promote myself in Russia.
+I have never been a proponent of Russian software — let alone Russian internet services — and have always considered myself an independent developer rather than a Russian one; when Runet finally degraded to cater to the uncompetitive «Gazprom-media», I deleted my Russian-language blog and no longer wish to promote myself in Russia.
 
 Я никогда не был сторонником ни российского программного обеспечения, ни тем более российских интернет-сервисов, и всегда считал себя не российским, а именно независимым разработчиком, а когда рунет окончательно деградировал в угоду неконкурентоспособному «Газпром-медиа», я удалил свой русскоязычный блог и больше не желаю продвигаться в России.
 
