@@ -10,7 +10,7 @@
 
 ---
 
-I'm developing the «Native Engine» for my future 3D action, RPG, and quest projects,
+I'm developing the «Native Engine» for my future 3D Action, RPG, and Quest projects,
 featuring first- and third-person controls, and aimed at those who enjoy a good game in their spare time.
 The engine is being developed and optimized for Linux and Windows PCs from the start; support for other platforms is not planned.
 The «Native Engine» utilizes open-source and vendor-neutral technologies, and controls will be implemented for keyboard, mouse, gamepad, and possibly VR.
