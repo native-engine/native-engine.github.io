@@ -30,8 +30,8 @@ I have never been a proponent of russian software — let alone russian internet
 ---
 
 * Development environment and RAD editor • Среда разработки и RAD-редактор: [Qt](https://www.qt.io/)
-* Compilers: GCC and Crosstool-NG for current and older versions of Linux, and MinGW-w64 for Windows
-* Компиляторы: GCC и Crosstool-NG для актуальной и старых версий ОС Linux и MinGW-w64 для ОС Windows
+* Compilers: [GCC](https://gcc.gnu.org/) and [Crosstool-NG](https://crosstool-ng.github.io/) for current and older versions of Linux, and [MinGW-w64](https://www.mingw-w64.org/) for Windows
+* Компиляторы: [GCC](https://gcc.gnu.org/) и [Crosstool-NG](hhttps://crosstool-ng.github.io/) для актуальной и старых версий ОС Linux и [MinGW-w64](https://www.mingw-w64.org/) для ОС Windows
 
 ![Native Engine Banner](images/Kdenlive.png)
 
