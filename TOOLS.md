@@ -41,11 +41,11 @@ I have never been a proponent of russian software — let alone russian internet
 
 ## AUXILIARY UTILITIES • ВСПОМОГАТЕЛЬНЫЕ УТИЛИТЫ
 
-* Издательство: PDF Mix Tool + PDFsam Basic*
-* Работа со шрифтами: Font Manager + Gucharmap
-* Программа для организации референсов: PureRef
-* Написание музыки: обёртка Windows-плагинов Yabridge
-* Контейнеры для ПО: AppImage для ОС Linux и Inno Setup для ОС Windows
+* Publishing • Издательство: PDF Mix Tool + PDFsam Basic*
+* Working with fonts • Работа со шрифтами: Font Manager + Gucharmap
+* Reference Organization • Организации референсов: PureRef
+* Music composition • Написание музыки: Windows plugins wrapper • обёртка Windows-плагинов Yabridge
+* Software containers • Контейнеры для ПО: AppImage для ОС Linux и Inno Setup для ОС Windows
 
 ---
 
