@@ -57,9 +57,9 @@ I have never been a proponent of russian software — let alone russian internet
 
 ---
 
-* Multimedia: Open Broadcaster Software screen recording program, HandBrake hardware video converter, MPV video player, and Audacious audio player
+* Multimedia: [Open Broadcaster Software](https://obsproject.com/) screen recording program, [HandBrake](https://handbrake.fr/) hardware video converter, [MPV](https://mpv.io/) video player, and [Audacious](https://audacious-media-player.org/) audio player
 
-* Мультимедиа: программа для записи экрана Open Broadcaster Software, аппаратный видеоконвертер HandBrake, видеопроигрыватель MPV и аудиоплеер Audacious
+* Мультимедиа: программа для записи экрана [Open Broadcaster Software](https://obsproject.com/), аппаратный видеоконвертер [HandBrake](https://handbrake.fr/), видеопроигрыватель [MPV](https://mpv.io/) и аудиоплеер [Audacious](https://audacious-media-player.org/)
 
 ![Native Engine Banner](images/OBS Studio.png)
 
