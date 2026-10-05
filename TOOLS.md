@@ -1,6 +1,6 @@
 ## WORKING TOOLS USED • ИСПОЛЬЗУЕМЫЙ РАБОЧИЙ ИНСТРУМЕНТАРИЙ
 
-I have never been a proponent of Russian software — let alone Russian internet services — and have always considered myself an independent developer rather than a Russian one; when Runet finally degraded to cater to the uncompetitive «Gazprom-media», I deleted my Russian-language blog and no longer wish to promote myself in Russia.
+I have never been a proponent of russian software — let alone russian internet services — and have always considered myself an independent developer rather than a russian one; when runet finally degraded to cater to the uncompetitive «Gazprom-media», I deleted my russian-language blog and no longer wish to promote myself in Russia.
 
 Я никогда не был сторонником ни российского программного обеспечения, ни тем более российских интернет-сервисов, и всегда считал себя не российским, а именно независимым разработчиком, а когда рунет окончательно деградировал в угоду неконкурентоспособному «Газпром-медиа», я удалил свой русскоязычный блог и больше не желаю продвигаться в России.
 
@@ -23,7 +23,7 @@ I have never been a proponent of Russian software — let alone Russian internet
 ---
 
 * 3D graphics and motion design • 3D-графика и моушн-дизайн: [Blender](https://www.blender.org/)
-* Video editor • Редактор видеомонтажа: [Kdenlive](https://kdenlive.org/) *
+* Video editor • Редактор видеомонтажа: [Kdenlive](https://kdenlive.org/)*
 * Sound editor • Звуковой редактор: [Audacity](https://www.audacityteam.org/)
 * Digital audio workstation • Цифровая звуковая рабочая станция: [Ardour](https://ardour.org/)
 
@@ -41,7 +41,7 @@ I have never been a proponent of Russian software — let alone Russian internet
 
 ## AUXILIARY UTILITIES • ВСПОМОГАТЕЛЬНЫЕ УТИЛИТЫ
 
-* Издательство: PDF Mix Tool + PDFsam Basic *
+* Издательство: PDF Mix Tool + PDFsam Basic*
 * Работа со шрифтами: Font Manager + Gucharmap
 * Программа для организации референсов: PureRef
 * Написание музыки: обёртка Windows-плагинов Yabridge
