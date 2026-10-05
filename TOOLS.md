@@ -51,9 +51,9 @@ I have never been a proponent of russian software — let alone russian internet
 
 ---
 
-* Development: Kate shader and script editor, CMake build system, Ccache compilation cache, AddressSanitizer memory error detector, MangoHud graphics monitoring overlay, Wine Windows runtime for Linux, Okteta hex editor
+* Development: [Kate](https://kate-editor.org/) shader and script editor, [CMake](https://cmake.org/) build system, [Ccache](https://ccache.dev/) compilation cache, [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer) memory error detector, [MangoHud](https://github.com/flightlessmango/MangoHud) graphics monitoring overlay, [Wine](https://www.winehq.org/) Windows runtime for Linux, [Okteta](https://apps.kde.org/okteta/) hex editor
 
-* Разработка: редактор шейдеров и скриптов Kate, система сборки CMake, кэш компиляции Ccache, отладчик использования памяти AddressSanitizer, оверлей для мониторинга графики MangoHud, Windows-рантайм для Линукса Wine, шестнадцатиричный редактор Okteta
+* Разработка: редактор шейдеров и скриптов [Kate](https://kate-editor.org/), система сборки [CMake](https://cmake.org/), кэш компиляции [Ccache](https://ccache.dev/), отладчик использования памяти [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer), оверлей для мониторинга графики [MangoHud](https://github.com/flightlessmango/MangoHud), Windows-рантайм для Линукса [Wine](https://www.winehq.org/), шестнадцатиричный редактор [Okteta](https://apps.kde.org/okteta/)
 
 ---
 
