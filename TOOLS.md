@@ -45,7 +45,8 @@ I have never been a proponent of russian software — let alone russian internet
 * Working with fonts • Работа со шрифтами: Font Manager + Gucharmap
 * Reference Organization • Организации референсов: PureRef
 * Music composition • Написание музыки: Windows plugins wrapper • обёртка Windows-плагинов Yabridge
-* Software containers • Контейнеры для ПО: AppImage для ОС Linux и Inno Setup для ОС Windows
+* Software containers: AppImage for Linux and Inno Setup for Windows
+* Контейнеры для ПО: AppImage для ОС Linux и Inno Setup для ОС Windows
 
 ---
 
