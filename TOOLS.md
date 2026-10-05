@@ -42,12 +42,12 @@ I have never been a proponent of russian software — let alone russian internet
 
 ## AUXILIARY UTILITIES • ВСПОМОГАТЕЛЬНЫЕ УТИЛИТЫ
 
-* Publishing • Издательство: PDF Mix Tool + PDFsam Basic*
-* Working with fonts • Работа со шрифтами: Font Manager + Gucharmap
-* Reference Organization • Организации референсов: PureRef
-* Music composition • Написание музыки: Windows plugins wrapper • обёртка Windows-плагинов Yabridge
-* Software containers: AppImage for Linux and Inno Setup for Windows
-* Контейнеры для ПО: AppImage для ОС Linux и Inno Setup для ОС Windows
+* Publishing • Издательство: [PDF Mix Tool](https://www.scarpetta.eu/pdfmixtool/) + [PDFsam Basic](https://pdfsam.org/)*
+* Working with fonts • Работа со шрифтами: [Font Manager](https://github.com/FontManager/font-manager) + [Gucharmap](https://github.com/GNOME/gucharmap)
+* Reference Organization • Организации референсов: [PureRef](https://www.pureref.com/)
+* Music composition • Написание музыки: Windows plugins wrapper • обёртка Windows-плагинов [Yabridge](https://github.com/robbert-vdh/yabridge)
+* Software containers: [AppImage](https://appimage.org/) for Linux and [Inno Setup](https://jrsoftware.org/isdl.php) for Windows
+* Контейнеры для ПО: [AppImage](https://appimage.org/) для ОС Linux и [Inno Setup](https://jrsoftware.org/isdl.php) для ОС Windows
 
 ---
 
