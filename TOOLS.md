@@ -77,7 +77,7 @@ I have never been a proponent of Russian software — let alone Russian internet
 ---
 
 * Physics • Физика: [Jolt Physics](https://github.com/jrouwe/JoltPhysics)
-* Scripting language • Скриптовый язык: [AngelScript](https://www.angelcode.com/angelscript/)
+* Scripting language • Скриптовый язык: [Lua](https://www.lua.org/download.html)
 * Compression of game archives • Компрессия игровых архивов: [LZ4](https://github.com/lz4/lz4)
 * Loading and saving settings • Загрузка-сохранение настроек: [inifile-cpp](https://github.com/Rookfighter/inifile-cpp)
 
