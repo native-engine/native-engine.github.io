@@ -4,7 +4,7 @@ Game archives packager: A BASH script that compiles Lua scripts into LuaC and pa
 
 Упаковщик игровых архивов: BASH-скрипт, компилирующий Lua-скрипты в LuaC и упаковывающий игровые архивы самописной утилитой AssetCompressor, со временем эти функции войдут в состав игрового редактора.
 
----
+![AssetCompressor Screenshot](images/AssetCompressor.png)
 
 The `luac` utility is used for compiling Lua scripts, while the `glslang` utility is used for compiling GLSL shaders into the SPIR-V format.
 
