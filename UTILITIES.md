@@ -8,7 +8,7 @@ Game archives packager: A BASH script that compiles Lua scripts into LuaC and pa
 
 The `luac` utility is used for compiling Lua scripts, while the `glslang` utility is used for compiling GLSL shaders into the SPIR-V format.
 
-Для компиляции Lua-скриптов используется утилита luac, а для компиляции GLSL-шейдеров в формат SPIR-V используется утилита glslang.
+Для компиляции Lua-скриптов используется утилита `luac`, а для компиляции GLSL-шейдеров в формат SPIR-V используется утилита `glslang`.
 
 ---
 
