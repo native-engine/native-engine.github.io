@@ -1,8 +1,8 @@
 ## UTILITIES • УТИЛИТЫ
 
-Game archive packager: A BASH script that compiles Lua scripts into the LuaC format and packs game archives using a custom-built utility called `AssetCompressor`; eventually, these functions will be integrated into the game world editor.
+Game archive packager: A BASH script that compiles Lua scripts into LuaC format and packages game archives using a custom utility called `AssetCompressor`; these functions will eventually be integrated into the game world editor.
 
-Упаковщик игровых архивов: BASH-скрипт, компилирующий Lua-скрипты в формат LuaC и упаковывающий игровые архивы самописной утилитой `AssetCompressor`, со временем эти функции войдут в состав редактора игрового мира.
+Упаковщик игровых архивов: BASH-скрипт, компилирующий Lua-скрипты в формат LuaC и упаковывающий игровые архивы самописной утилитой `AssetCompressor`, в будущем эти функции войдут в состав редактора игрового мира.
 
 ![AssetCompressor Screenshot](images/AssetCompressor.png)
 
