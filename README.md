@@ -14,7 +14,7 @@ At the moment, the engine runtime is being ported from WinAPI and X11 to SDL, an
 
 ---
 
-На данный момент идёт портирование рантайма движка с WinAPI и X11 на SDL и с графического API OPENGL на GAPI VULKAN
+На данный момент идёт портирование рантайма движка с WinAPI и X11 на SDL и с графического API OpenGL на GAPI Vulkan
 
 ---
 
