@@ -1,8 +1,8 @@
 ## UTILITIES • УТИЛИТЫ
 
-I develop my own game editors with the goal of replacing a multitude of third-party programs, utilities, and plugins with a single application — a game-object editor that allows for the comprehensive optimization of models, the configuration of their physics, joints, and skeletons, and the creation of presentation-quality renders for publishing these new models online.
+I develop my own game editors with the goal of replacing a multitude of third-party programs, utilities, and plugins with a single application. This allows me to handle everything—from highly optimizing models and configuring their physics, joints, and skeletons, to creating presentation-quality renders for online publication—all within one unified environment. Likewise, I meticulously tailor the interface of these editors to suit my own workflow, ensuring maximum efficiency and ease of use.
 
-Свои игровые редакторы я разрабатываю с целью замены одной программой множества сторонних программ, утилит и плагинов, чтобы в одном редакторе игровых объектов можно было предельно оптимизировать модели, настраивать их физику, шарниры и скелеты, а также делать презентационные рендеры новых моделей для их публикации в интернете.
+Свои игровые редакторы я разрабатываю с целью замены одной программой множества сторонних программ, утилит и плагинов, чтобы в одном редакторе игровых объектов можно было предельно оптимизировать модели, настраивать их физику, шарниры и скелеты, а также делать презентационные рендеры новых моделей для их публикации в интернете. Точно также я предельно оптимизирую под себя возможности и удобство интерфейса данных редакторов.
 
 ---
 
