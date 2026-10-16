@@ -2,6 +2,16 @@
 
 ![Native Engine Banner](images/Manjaro Linux.png)
 
+
+•
+[Home](README.md) •
+[Utilities](UTILITIES.md) •
+[BlueSky](https://bsky.app/profile/native-engine.bsky.social) •
+[YouTube](https://www.youtube.com/@native-engine)
+•
+
+---
+
 ## SOFTWARE • ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ
 
 * Operating system • Операционная система: [Manjaro Linux](https://manjaro.org/) + [KDE Plasma](https://kde.org/plasma-desktop/)
