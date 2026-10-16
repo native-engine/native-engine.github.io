@@ -1,9 +1,5 @@
 ## WORKING TOOLS USED • ИСПОЛЬЗУЕМЫЙ РАБОЧИЙ ИНСТРУМЕНТАРИЙ
 
-I have never been a proponent of Russian software — let alone Russian internet services — and have always considered myself an independent developer rather than a Russian one; when the Russian segment of the internet finally degraded to such an extent — in order to favor uncompetitive local services — that even the Vulkan graphics API SDK became inaccessible without a VPN, I deleted my Russian-language blog and no longer wish to promote myself in Russia.
-
-Я никогда не был сторонником ни российского программного обеспечения, ни тем более российских интернет-сервисов, и всегда считал себя не российским, а именно независимым разработчиком, а когда рунет окончательно деградировал в угоду неконкурентоспособным российским интернет-сервисам настолько, что без VPN стал недоступен даже SDK графического API Vulkan, я удалил свой русскоязычный блог и больше не желаю продвигаться в России.
-
 ![Native Engine Banner](images/Manjaro Linux.png)
 
 ## SOFTWARE • ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ
