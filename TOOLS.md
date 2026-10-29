@@ -79,10 +79,10 @@
 * Platform-specific code for Linux and Windows • Платформенный код для ОС Linux и Windows: [SDL](https://www.libsdl.org/)
 * Graphics • Графика: [Vulkan](https://vulkan.lunarg.com/sdk/home) + [OpenGL Mathematics](https://github.com/g-truc/glm)
 * Sound • Звук: [OpenAL Soft](https://github.com/kcat/openal-soft) + [Ogg Vorbis](https://xiph.org/downloads/)
+* Physics • Физика: [Jolt Physics](https://github.com/jrouwe/JoltPhysics)
 
 ---
 
-* Physics • Физика: [Jolt Physics](https://github.com/jrouwe/JoltPhysics)
 * Scripting language • Скриптовый язык: [Lua](https://www.lua.org/download.html)
 * Compression of game archives • Компрессия игровых архивов: [ZXC](https://libzxc.org/)
 * Loading and saving settings • Загрузка-сохранение настроек: [inifile-cpp](https://github.com/Rookfighter/inifile-cpp)
