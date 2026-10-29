@@ -91,7 +91,7 @@
 
 * Model import/export and optimization • Импорт-экспорт и оптимизация моделей: [cglTF](https://github.com/jkuhlmann/cgltf) + [Draco mesh](https://github.com/google/draco) + [Mesh optimizer](https://github.com/zeux/meshoptimizer)
 * Image import/export • Импорт-экспорт изображений: [stb](https://github.com/nothings/stb) (JPEG, PNG, BMP, TGA, GIF, PSD, HDR, PIC и PNM)
-* Block compression of texture maps • Блочная компрессия текстурных карт: NVIDIA [Texture Tools SDK](https://developer.nvidia.com/gpu-accelerated-texture-compression)
+* Block compression of texture maps • Блочная компрессия текстурных карт: [NVIDIA Texture Tools SDK](https://developer.nvidia.com/gpu-accelerated-texture-compression)
 
 ---
 
