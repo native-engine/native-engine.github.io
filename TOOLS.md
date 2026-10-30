@@ -84,8 +84,8 @@
 ---
 
 * Scripting language • Скриптовый язык: [Lua](https://www.lua.org/download.html)
-* Compression of game archives • Компрессия игровых архивов: [ZXC](https://libzxc.org/)
 * Loading and saving settings • Загрузка-сохранение настроек: [inifile-cpp](https://github.com/Rookfighter/inifile-cpp)
+* Compression of game archives • Компрессия игровых архивов: [ZXC](https://libzxc.org/)
 
 ---
 
