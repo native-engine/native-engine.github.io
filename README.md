@@ -20,4 +20,4 @@ Currently, the engine runtime is being ported from `WinAPI` and `X11` to the `SD
 
 ---
 
-### © 2017-2026 Daniil Petrov
+### © 2017-2026 • Daniil Petrov
