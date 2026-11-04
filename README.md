@@ -19,11 +19,11 @@ I'm developing the «Native Engine» for my future 3D Action, RPG, and Quest pro
 
 ---
 
-Currently, the engine runtime is being ported from `WinAPI` and `X11` to the `SDL` library and from the `OpenGL` graphics API to `Vulkan` GAPI, while the game object editor is being ported from `GTK` to `Qt`, also transitioning from `OpenGL` graphics API to `Vulkan` GAPI. In the future, the plan is to transition from **GLSL shaders** to either **HLSL** or **Slang**.
+Currently, the engine runtime is being ported from `WinAPI` and `X11` to the `SDL` library and from the `OpenGL` graphics API to `Vulkan` GAPI, while the game object editor is being ported from `GTK` to `Qt`, also transitioning from `OpenGL` graphics API to `Vulkan` GAPI. In the future, the plan is to transition from the original **GLSL shaders** to either **HLSL** or **Slang**.
 
 ---
 
-На данный момент идёт портирование рантайма движка с `WinAPI` и `X11` на библиотеку `SDL` и с графического API `OpenGL` на GAPI `Vulkan`, а редактор игровых объектов портируется с `GTK` на `Qt` и также с графического API `OpenGL` на GAPI `Vulkan`. В дальнейшем планируется переход с **шейдеров GLSL** либо на **HLSL**, либо на **Slang**.
+На данный момент идёт портирование рантайма движка с `WinAPI` и `X11` на библиотеку `SDL` и с графического API `OpenGL` на GAPI `Vulkan`, а редактор игровых объектов портируется с `GTK` на `Qt` и также с графического API `OpenGL` на GAPI `Vulkan`. В дальнейшем планируется переход с исходных **шейдеров GLSL** либо на **HLSL**, либо на **Slang**.
 
 ---
 
