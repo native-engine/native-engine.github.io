@@ -30,7 +30,7 @@
 ---
 
 * 3D-графика и моушн-дизайн: [Blender](https://www.blender.org/)
-* Редактор видеомонтажа: [Kdenlive](https://kdenlive.org/)*
+* Редактор видеомонтажа: [Kdenlive](https://kdenlive.org/) *
 * Звуковой редактор: [Audacity](https://www.audacityteam.org/)
 * Цифровая звуковая рабочая станция: [Ardour](https://ardour.org/)
 
@@ -46,7 +46,7 @@
 
 ## ВСПОМОГАТЕЛЬНЫЕ УТИЛИТЫ
 
-* Издательство: [PDF Mix Tool](https://www.scarpetta.eu/pdfmixtool/) + [PDFsam Basic](https://pdfsam.org/)*
+* Издательство: [PDF Mix Tool](https://www.scarpetta.eu/pdfmixtool/) + [PDFsam Basic](https://pdfsam.org/) *
 * Работа со шрифтами: [Font Manager](https://github.com/FontManager/font-manager) + [Gucharmap](https://github.com/GNOME/gucharmap)
 * Организации референсов: [PureRef](https://www.pureref.com/)
 * Написание музыки: обёртка Windows-плагинов [Yabridge](https://github.com/robbert-vdh/yabridge)
