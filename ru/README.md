@@ -1,6 +1,6 @@
 # Игровой движок «NATiVE ENGiNE»
 
-![Native Engine Banner](images/Bluesky-Horizontal.png)
+![Native Engine Banner](images/Bluesky-Horizontal-Ru.png)
 
 •
 [Tools](TOOLS.md) •
