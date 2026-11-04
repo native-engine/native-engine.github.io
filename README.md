@@ -1,10 +1,11 @@
-# Game Engine • Игровой движок «NATiVE ENGiNE»
+# Game Engine «NATiVE ENGiNE»
 
 ![Native Engine Banner](images/Bluesky-Horizontal.png)
 
 •
 [Tools](TOOLS.md) •
 [Utilities](UTILITIES.md) •
+[RU](ru) •
 [BlueSky](https://bsky.app/profile/native-engine.bsky.social) •
 [YouTube](https://www.youtube.com/@native-engine)
 •
@@ -15,16 +16,8 @@ I'm developing the «Native Engine» for my future 3D Action, RPG, and Quest pro
 
 ---
 
-Игровой движок «Native Engine» я разрабатываю для своих будущих игровых проектов жанров 3D-Action, RPG и Quest с возможностью выбора управления от 1-го и 3-го лица, и рассчитанных на людей, любящих на досуге сыграть в хорошую игру. Движок изначально разрабатывается и оптимизируется под Linux и Windows ПК, поддержка других платформ не планируется в принципе. В движке «Native Engine» используются свободные и вендоро-независимые технологии, управление будет реализовываться под клавиатуру, мышь, геймпад и, возможно, VR. В этом случае десктоп и VR будут поддерживаться одним дистрибутивом без разделения на десктопный и VR-дистрибутивы. Архитектура движка оптимизирована под многоядерные процессоры, а игровые форматы сбалансированы под оптимальное соотношение «размер / качество / скорость декомпрессии».
-
----
-
 Currently, the engine runtime is being ported from `WinAPI` and `X11` to the `SDL` library and from the `OpenGL` graphics API to `Vulkan` GAPI, while the game object editor is being ported from `GTK` to `Qt`, also transitioning from `OpenGL` graphics API to `Vulkan` GAPI. In the future, the plan is to transition from the original `GLSL` shaders to either `HLSL` or `Slang`.
 
 ---
 
-На данный момент идёт портирование рантайма движка с `WinAPI` и `X11` на библиотеку `SDL` и с графического API `OpenGL` на GAPI `Vulkan`, а редактор игровых объектов портируется с `GTK` на `Qt` и также с графического API `OpenGL` на GAPI `Vulkan`. В дальнейшем планируется переход с исходных шейдеров `GLSL` либо на `HLSL`, либо на `Slang`.
-
----
-
-### © 2017-2026 Daniil Petrov • Даниил Петров
+### © 2017-2026 Daniil Petrov
