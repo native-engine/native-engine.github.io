@@ -6,7 +6,7 @@
 •
 [Home](README.md) •
 [Utilities](UTILITIES.md) •
-[RU](ru) •
+[RU](ru/TOOLS.md) •
 [BlueSky](https://bsky.app/profile/native-engine.bsky.social) •
 [YouTube](https://www.youtube.com/@native-engine)
 •
