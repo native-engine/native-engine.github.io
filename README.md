@@ -1,6 +1,6 @@
 # Game Engine «NATiVE ENGiNE»
 
-![Native Engine Banner](images/Bluesky-Horizontal.png)
+![Native Engine Banner](images/Bluesky-Horizontal-Eng.png)
 
 •
 [Tools](TOOLS.md) •
