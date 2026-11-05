@@ -1,6 +1,8 @@
 ## UTILITIES
 
-I develop my own game editors with the goal of replacing a multitude of third-party programs, utilities, and plugins with a single application. For instance, a single game-object editor can be used to highly optimize models, configure their materials, collisions, joints, and skeletons, and even generate presentation-quality renders of new models for online publication. In the same vein, I fine-tune the functionality and user interface of these editors to perfectly suit my own needs and workflow.
+![AssetCompressor Screenshot](images/IconBuilder.png)
+
+I develop my own game editors with the goal of replacing a multitude of third-party programs, utilities, and plugins with a single application. For instance, a single game-object editor can be used to highly optimize models, configure their materials, collisions, joints, and skeletons, and even generate presentation-quality renders of new models for online publication. Even for assembling Windows icons, I use a custom-built utility that compiles them from a set of PNG files — the same ones used for Linux icons. In the same vein, I fine-tune the functionality and user interface of these editors to perfectly suit my own needs and workflow.
 
 ---
 
