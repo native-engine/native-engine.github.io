@@ -54,7 +54,7 @@
 
 ---
 
-* Разработка: редактор шейдеров и скриптов [Kate](https://kate-editor.org/), система сборки [CMake](https://cmake.org/), кэш компиляции [Ccache](https://ccache.dev/), отладчик использования памяти [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer), оверлей для мониторинга графики [MangoHud](https://github.com/flightlessmango/MangoHud), Windows-рантайм для Линукса [Wine](https://www.winehq.org/), шестнадцатиричный редактор [Okteta](https://apps.kde.org/okteta/)
+* Разработка: редактор шейдеров и скриптов [Kate](https://kate-editor.org/), система сборки [CMake](https://cmake.org/), кэш компиляции [Ccache](https://ccache.dev/), отладчик использования памяти [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer), оверлей для мониторинга графики [MangoHud](https://github.com/flightlessmango/MangoHud), Windows-рантайм для Линукса [Wine](https://www.winehq.org/) и шестнадцатиричный редактор [Okteta](https://apps.kde.org/okteta/)
 
 ---
 
