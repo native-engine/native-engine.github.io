@@ -16,6 +16,10 @@ I'm developing the «Native Engine» for my future 3D Action, RPG, and Quest pro
 
 ---
 
+```markdown
+[![Название видео](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=kGvdeMFbL1s)
+```
+
 Currently, the engine runtime is being ported from `WinAPI` and `X11` to the `SDL` library and from the `OpenGL` graphics API to `Vulkan` GAPI, while the game object editor is being ported from `GTK` to `Qt`, also transitioning from `OpenGL` graphics API to `Vulkan` GAPI. In the future, the plan is to transition from the original `GLSL` shaders to either `HLSL` or `Slang`.
 
 ---
