@@ -6,7 +6,8 @@
 •
 [Home](README.md) •
 [Utilities](utilities.md) •
-[ENG](ru/tools.md) •
+[RU](ru/tools.md) •
+[itch.io](https://nativeengine.itch.io/) •
 [BlueSky](https://bsky.app/profile/native-engine.bsky.social) •
 [YouTube](https://www.youtube.com/@native-engine)
 •
