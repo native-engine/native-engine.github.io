@@ -84,9 +84,11 @@
 
 ---
 
+### © 2017-2026 • Даниил Петров
+
+---
+
 [![itch.io Logo](images/logotypes/itch-io.png)](https://nativeengine.itch.io/)&nbsp;&nbsp;
 [![BlueSky Logo](images/logotypes/bluesky.png)](https://bsky.app/profile/native-engine.bsky.social)&nbsp;&nbsp;
 [![YouTube Logo](images/logotypes/youtube.png)](https://www.youtube.com/@native-engine)
-
-### © 2017-2026 • Даниил Петров
 
