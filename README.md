@@ -5,10 +5,7 @@
 •
 [Tools](tools.md) •
 [Utilities](utilities.md) •
-[RU](ru) •
-[itch.io](https://nativeengine.itch.io/) •
-[BlueSky](https://bsky.app/profile/native-engine.bsky.social) •
-[YouTube](https://www.youtube.com/@native-engine)
+[RU](ru)
 •
 
 ---
@@ -21,8 +18,8 @@ Currently, the engine runtime is being ported from `WinAPI` and `X11` to the `SD
 
 ---
 
-[![itch.io Logo](images/logotypes/itch-io.png)](https://nativeengine.itch.io/)&nbsp;&nbsp;&nbsp;
-[![BlueSky Logo](images/logotypes/bluesky.png)](https://bsky.app/profile/native-engine.bsky.social)&nbsp;&nbsp;&nbsp;
+[![itch.io Logo](images/logotypes/itch-io.png)](https://nativeengine.itch.io/)&nbsp;&nbsp;
+[![BlueSky Logo](images/logotypes/bluesky.png)](https://bsky.app/profile/native-engine.bsky.social)&nbsp;&nbsp;
 [![YouTube Logo](images/logotypes/youtube.png)](https://www.youtube.com/@native-engine)
 
 ### © 2017-2026 • Daniil Petrov

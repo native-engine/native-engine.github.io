@@ -6,10 +6,7 @@
 •
 [Home](README.md) •
 [Utilities](utilities.md) •
-[RU](ru/tools.md) •
-[itch.io](https://nativeengine.itch.io/) •
-[BlueSky](https://bsky.app/profile/native-engine.bsky.social) •
-[YouTube](https://www.youtube.com/@native-engine)
+[RU](ru/tools.md)
 •
 
 ---
@@ -86,6 +83,10 @@
 * Block-based texture map compression: [NVIDIA Texture Tools SDK](https://developer.nvidia.com/gpu-accelerated-texture-compression)
 
 ---
+
+[![itch.io Logo](images/logotypes/itch-io.png)](https://nativeengine.itch.io/)&nbsp;&nbsp;&nbsp;
+[![BlueSky Logo](images/logotypes/bluesky.png)](https://bsky.app/profile/native-engine.bsky.social)&nbsp;&nbsp;&nbsp;
+[![YouTube Logo](images/logotypes/youtube.png)](https://www.youtube.com/@native-engine)
 
 ### © 2017-2026 • Daniil Petrov
 
