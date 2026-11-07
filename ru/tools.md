@@ -6,10 +6,7 @@
 •
 [Home](README.md) •
 [Utilities](utilities.md) •
-[ENG](https://native-engine.github.io/tools.html) •
-[itch.io](https://nativeengine.itch.io/) •
-[BlueSky](https://bsky.app/profile/native-engine.bsky.social) •
-[YouTube](https://www.youtube.com/@native-engine)
+[ENG](https://native-engine.github.io/tools.html)
 •
 
 ---
@@ -86,6 +83,10 @@
 * Блочная компрессия текстурных карт: [NVIDIA Texture Tools SDK](https://developer.nvidia.com/gpu-accelerated-texture-compression)
 
 ---
+
+[![itch.io Logo](images/logotypes/itch-io.png)](https://nativeengine.itch.io/)&nbsp;&nbsp;
+[![BlueSky Logo](images/logotypes/bluesky.png)](https://bsky.app/profile/native-engine.bsky.social)&nbsp;&nbsp;
+[![YouTube Logo](images/logotypes/youtube.png)](https://www.youtube.com/@native-engine)
 
 ### © 2017-2026 • Даниил Петров
 

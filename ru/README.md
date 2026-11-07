@@ -5,10 +5,7 @@
 •
 [Tools](tools.md) •
 [Utilities](utilities.md) •
-[ENG](https://native-engine.github.io/) •
-[itch.io](https://nativeengine.itch.io/) •
-[BlueSky](https://bsky.app/profile/native-engine.bsky.social) •
-[YouTube](https://www.youtube.com/@native-engine)
+[ENG](https://native-engine.github.io/)
 •
 
 ---
@@ -20,5 +17,9 @@
 На данный момент идёт портирование рантайма движка с `WinAPI` и `X11` на библиотеку `SDL` и с графического API `OpenGL` на GAPI `Vulkan`, а редактор игровых объектов портируется с `GTK` на `Qt` и также с графического API `OpenGL` на GAPI `Vulkan`. В дальнейшем планируется переход с исходных шейдеров `GLSL` либо на `HLSL`, либо на `Slang`.
 
 ---
+
+[![itch.io Logo](images/logotypes/itch-io.png)](https://nativeengine.itch.io/)&nbsp;&nbsp;
+[![BlueSky Logo](images/logotypes/bluesky.png)](https://bsky.app/profile/native-engine.bsky.social)&nbsp;&nbsp;
+[![YouTube Logo](images/logotypes/youtube.png)](https://www.youtube.com/@native-engine)
 
 ### © 2017-2026 • Даниил Петров
