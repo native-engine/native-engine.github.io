@@ -3,8 +3,8 @@
 ![AssetCompressor Screenshot](images/IconBuilder.png)
 
 •
-[Главная](README.md) •
-[Инструменты](tools.md) •
+[Home](README.md) •
+[Tools](tools.md) •
 [RU](ru/utilities.md)
 •
 
