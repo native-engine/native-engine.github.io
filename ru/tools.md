@@ -4,8 +4,8 @@
 
 
 •
-[Home](README.md) •
-[Utilities](utilities.md) •
+[Главная](README.md) •
+[Утилиты](utilities.md) •
 [ENG](https://native-engine.github.io/tools.html)
 •
 

@@ -3,8 +3,8 @@
 ![AssetCompressor Screenshot](images/IconBuilder.png)
 
 •
-[Home](README.md) •
-[Tools](tools.md) •
+[Главная](README.md) •
+[Инструменты](tools.md) •
 [ENG](https://native-engine.github.io/utilities.html)
 •
 

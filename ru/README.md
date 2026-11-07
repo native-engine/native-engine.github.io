@@ -3,8 +3,8 @@
 ![Native Engine Banner](images/Bluesky-Horizontal-Ru.png)
 
 •
-[Tools](tools.md) •
-[Utilities](utilities.md) •
+[Инструменты](tools.md) •
+[Утилиты](utilities.md) •
 [ENG](https://native-engine.github.io/)
 •
 
