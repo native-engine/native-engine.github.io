@@ -1,29 +1,29 @@
-## УТИЛИТЫ
+## UTILITIES
 
-![Native Engine Banner](images/Bluesky-Horizontal-Ru.png)
+![Native Engine Banner](images/Bluesky-Horizontal-Eng.png)
 
 •
-[Главная](README.md) •
-[Инструменты](tools.md) •
-[Обо Мне](about-me.md)
-[ENG](https://native-engine.github.io/utilities.html)
+[Home](README.md) •
+[Tools](tools.md) •
+[About Me](about-me.md)
+[RU](ru/utilities.md)
 •
 
 ---
 
-Свои игровые редакторы я разрабатываю с целью замены одной программой множества сторонних программ, утилит и плагинов, чтобы, например, в одном редакторе игровых объектов можно было предельно оптимизировать модели, настраивать их материалы, коллизии, шарниры и скелеты, а также делать презентационные рендеры новых моделей для их публикации в интернете. Даже для сборки Windows-иконок я использую самописную утилиту, которая собирает их из набора PNG-файлов Linux-иконки. Точно также я предельно оптимизирую под себя возможности и удобство интерфейса данных редакторов.
+I develop my own game editors with the goal of replacing a multitude of third-party programs, utilities, and plugins with a single application. For instance, a single game-object editor can handle everything from highly optimizing models and configuring their materials, collisions, joints, and skeletons, to generating presentation-quality renders for online publication. I even use a custom-built utility to assemble Windows icons from a collection of PNG files originally intended for Linux. In the same vein, I fine-tune the functionality and user interface of these editors to perfectly suit my own workflow and preferences.
 
 ---
 
-Упаковщик игровых архивов: `BASH` скрипт, компилирующий `Lua` скрипты в формат `LuaC` и упаковывающий игровые архивы самописной утилитой `AssetCompressor`, в будущем эти функции войдут в состав редактора игрового мира.
+Game archive packager: A `BASH` script that compiles `Lua` scripts into `LuaC` format and packs game archives using a custom-built utility called `AssetCompressor`; in the future, these functions will be integrated into the game world editor.
 
 ![AssetCompressor Screenshot](images/AssetCompressor.png)
 
-Для компиляции Lua-скриптов используется утилита `luac`, а для компиляции `GLSL` шейдеров в формат `SPIR-V` используется утилита `glslang`.
+The `luac` utility is used for compiling Lua scripts, while the `glslang` utility is used for compiling `GLSL` shaders into the `SPIR-V` format.
 
 ---
 
-### © 2017-2026 • Даниил Петров
+### © 2017-2026 • Daniil Petrov
 
 ---
 
