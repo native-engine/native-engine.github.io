@@ -1,27 +1,27 @@
-# Игровой движок «NATiVE ENGiNE»
+# Game engine «NATiVE ENGiNE»
 
 ![Native Engine Banner](images/Bluesky-Horizontal-Ru.png)
 
 •
-[Инструменты](tools.md) •
-[Утилиты](utilities.md) •
-[Обо Мне](about-me.md)
-[ENG](https://native-engine.github.io/)
+[Tools](tools.md) •
+[Utilities](utilities.md) •
+[About Me](about-me.md)
+[RU](ru/)
 •
 
 ---
 
-Игровой движок «Native Engine» я разрабатываю для своих будущих игровых проектов жанров 3D-Action, RPG и Quest с возможностью выбора управления от 1-го и 3-го лица, и рассчитанных на людей, любящих на досуге сыграть в хорошую игру. Движок изначально разрабатывается и оптимизируется под Linux и Windows ПК, поддержка других платформ не планируется в принципе. В движке «Native Engine» используются свободные и вендоро-независимые технологии, управление будет реализовываться под клавиатуру, мышь, геймпад и, возможно, VR. В этом случае десктоп и VR будут поддерживаться одним дистрибутивом без разделения на десктопный и VR-дистрибутивы. Архитектура движка оптимизирована под многоядерные процессоры, а игровые форматы сбалансированы под оптимальное соотношение «размер / качество / скорость декомпрессии».
+I’m developing the «Native Engine» for my future 3D Action, RPG, and Quest projects, featuring first- and third-person controls, and aimed at those who enjoy a good game in their spare time. The engine is being developed and optimized for Linux and Windows PCs from the start; support for other platforms is not planned. The «Native Engine» utilizes open-source and vendor-neutral technologies, and controls will be implemented for keyboard, mouse, gamepad, and possibly VR. In this case, desktop and VR will be supported by a single distribution, without separate desktop and VR distributions. The engine’s architecture is optimized for multi-core processors, and game formats are balanced for the optimal balance of «size, quality, and decompression speed».
 
-Игровой движок «Native Engine» и различные проекты на нём разрабатываются на основе компромисса моих требований и возможностей. Вначале это будет статичная сцена с довольно неплохим PBR-рендером, физика и звук, затем добавятся интерактивное взаимодействие, анимация и, возможно, воспроизведение видео. По мере освоения разработки компьютерных игр будут добавляться физика тканей и разрушений, персонажи и многое другое. Поскольку я являюсь поклонником исключительно качественных сюжетных игр, то в данном игровом движке не будет никакого мультиплеера, модификаций и загружаемого контента (DLC). Главный упор при разработке игр будет делаться на предельную кинематографичность и качественный книжный сюжет.
-
----
-
-На данный момент идёт портирование рантайма движка с `WinAPI` и `X11` на библиотеку `SDL` и с графического API `OpenGL` на GAPI `Vulkan`, а редактор игровых объектов портируется с `GTK` на `Qt` и также с графического API `OpenGL` на GAPI `Vulkan`. В дальнейшем планируется переход с исходных шейдеров `GLSL` либо на `HLSL`, либо на `Slang`.
+The game engine «Native Engine» and various projects on it are developed based on a compromise of my requirements and capabilities. At first it will be a static scene with a pretty good PBR renderer, physics and sound, then interactive interaction, animation and video playback will be added. As computer game development is mastered, cloth and destruction physics, characters, and more will be added. Since I am a fan of extremely high quality story-driven games, there will be no multiplayer, modifications, or downloadable content (DLC) in this game engine. The main emphasis in game development will be on extreme cinematic and book quality storytelling.
 
 ---
 
-### © 2017-2026 • Даниил Петров
+Currently, the engine runtime is being ported from `WinAPI` and `X11` to the `SDL` library, and from the `OpenGL` graphics API to `Vulkan`. Simultaneously, the game object editor is being ported from `GTK` to `Qt`, also transitioning from `OpenGL` to `Vulkan`. In the future, there are plans to migrate the existing `GLSL` shaders to either `HLSL` or `Slang`.
+
+---
+
+### © 2017-2026 • Daniil Petrov
 
 ---
 
