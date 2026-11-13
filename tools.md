@@ -1,90 +1,91 @@
-## TOOLS AND INSTRUMENTS USED
+## ИСПОЛЬЗУЕМЫЙ РАБОЧИЙ ИНСТРУМЕНТАРИЙ
 
 ![Native Engine Banner](images/Manjaro Linux.png)
 
 
 •
-[Home](README.md) •
-[Utilities](utilities.md) •
-[RU](ru/tools.md)
+[Главная](README.md) •
+[Утилиты](utilities.md) •
+[Обо Мне](about-me.md)
+[ENG](https://native-engine.github.io/tools.html)
 •
 
 ---
 
-## SOFTWARE
+## ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ
 
-* Operating system: [Manjaro Linux](https://manjaro.org/) + [KDE Plasma](https://kde.org/plasma-desktop/)
-* Web browser: [Chromium](https://www.chromium.org/Home/)
-* Office suite: [OnlyOffice](https://www.onlyoffice.com/)
-* File manager: [Double Commander](https://doublecmd.sourceforge.io/)
-
----
-
-* Raster editor: [GIMP](https://www.gimp.org/)
-* Vector editor: [Inkscape](https://inkscape.org/)
-* Publishing system: [Scribus](https://www.scribus.net/)
-* Font editor: [FontForge](https://fontforge.org/en-US/)
+* Операционная система: [Manjaro Linux](https://manjaro.org/) + [KDE Plasma](https://kde.org/plasma-desktop/)
+* Веб-браузер: [Chromium](https://www.chromium.org/Home/)
+* Офисный пакет: [OnlyOffice](https://www.onlyoffice.com/)
+* Файловый менеджер: [Double Commander](https://doublecmd.sourceforge.io/)
 
 ---
 
-* 3D Graphics and Motion Design: [Blender](https://www.blender.org/)
-* Video Editor: [Kdenlive](https://kdenlive.org/) *
-* Audio editor: [Audacity](https://www.audacityteam.org/)
-* Digital Audio Workstation: [Ardour](https://ardour.org/)
+* Растровый редактор: [GIMP](https://www.gimp.org/)
+* Векторный редактор: [Inkscape](https://inkscape.org/)
+* Издательская система: [Scribus](https://www.scribus.net/)
+* Редактор шрифтов: [FontForge](https://fontforge.org/en-US/)
 
 ---
 
-* Development environment and RAD editor: [Qt](https://www.qt.io/)
-* Compilers: [GCC](https://gcc.gnu.org/) and [Crosstool-NG](https://crosstool-ng.github.io/) for current and older versions of the Linux OS, and [MinGW-w64](https://www.mingw-w64.org/) for the Windows OS
+* 3D-графика и моушн-дизайн: [Blender](https://www.blender.org/)
+* Редактор видеомонтажа: [Kdenlive](https://kdenlive.org/) *
+* Звуковой редактор: [Audacity](https://www.audacityteam.org/)
+* Цифровая звуковая рабочая станция: [Ardour](https://ardour.org/)
+
+---
+
+* Среда разработки и RAD-редактор: [Qt](https://www.qt.io/)
+* Компиляторы: [GCC](https://gcc.gnu.org/) и [Crosstool-NG](https://crosstool-ng.github.io/) для актуальной и старых версий ОС Linux и [MinGW-w64](https://www.mingw-w64.org/) для ОС Windows
 
 ![Native Engine Banner](images/Kdenlive.png)
 
-> [the DaVinci Resolve video editor is quite difficult to download, it does not support many graphics cards, and it has a very limited number of supported codecs](https://wiki.archlinux.org/title/DaVinci_Resolve#MP4,_H.264,_H.265_and_AAC_Support)
+> [видеоредактор Davinci Resolve довольно затруднительно скачать, поддерживает далеко не все видеокарты и слишком мало поддерживаемых кодеков](https://wiki.archlinux.org/title/DaVinci_Resolve#MP4,_H.264,_H.265_and_AAC_Support)
 
 
-## AUXILIARY UTILITIES
+## ВСПОМОГАТЕЛЬНЫЕ УТИЛИТЫ
 
-* Publishing: [PDF Mix Tool](https://www.scarpetta.eu/pdfmixtool/) + [PDFsam Basic](https://pdfsam.org/) *
-* Working with fonts: [Font Manager](https://github.com/FontManager/font-manager) + [Gucharmap](https://github.com/GNOME/gucharmap)
-* Organization of references: [PureRef](https://www.pureref.com/)
-* Music composition: Windows plugins wrapper [Yabridge](https://github.com/robbert-vdh/yabridge)
-* Software containers: [AppImage](https://appimage.org/) for Linux and [Inno Setup](https://jrsoftware.org/isdl.php) for Windows
-
----
-
-* Development: [Kate](https://kate-editor.org/) shader and script editor, [CMake](https://cmake.org/) build system, [Ccache](https://ccache.dev/) compilation cache, [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer) memory usage debugger, [MangoHud](https://github.com/flightlessmango/MangoHud) graphics monitoring overlay, [Wine](https://www.winehq.org/) Windows runtime for Linux, and [Okteta](https://apps.kde.org/okteta/) hex editor
+* Издательство: [PDF Mix Tool](https://www.scarpetta.eu/pdfmixtool/) + [PDFsam Basic](https://pdfsam.org/) *
+* Работа со шрифтами: [Font Manager](https://github.com/FontManager/font-manager) + [Gucharmap](https://github.com/GNOME/gucharmap)
+* Организации референсов: [PureRef](https://www.pureref.com/)
+* Написание музыки: обёртка Windows-плагинов [Yabridge](https://github.com/robbert-vdh/yabridge)
+* Контейнеры для ПО: [AppImage](https://appimage.org/) для ОС Linux и [Inno Setup](https://jrsoftware.org/isdl.php) для ОС Windows
 
 ---
 
-* Multimedia: [Open Broadcaster Software](https://obsproject.com/) screen recording program, [HandBrake](https://handbrake.fr/) video converter, [MPV](https://mpv.io/) video player, and [Audacious](https://audacious-media-player.org/) audio player
+* Разработка: редактор шейдеров и скриптов [Kate](https://kate-editor.org/), система сборки [CMake](https://cmake.org/), кэш компиляции [Ccache](https://ccache.dev/), отладчик использования памяти [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer), оверлей для мониторинга графики [MangoHud](https://github.com/flightlessmango/MangoHud), Windows-рантайм для Линукса [Wine](https://www.winehq.org/) и шестнадцатиричный редактор [Okteta](https://apps.kde.org/okteta/)
+
+---
+
+* Мультимедиа: программа для записи экрана [Open Broadcaster Software](https://obsproject.com/), аппаратный видеоконвертер [HandBrake](https://handbrake.fr/), видеопроигрыватель [MPV](https://mpv.io/) и аудиоплеер [Audacious](https://audacious-media-player.org/)
 
 ![Native Engine Banner](images/OBS Studio.png)
 
-> the Scribus page layout editor is unable to export PDF publications by combining two-page portrait spreads into a single landscape-oriented page
+> редактор вёрстки Scribus не способен экспортировать PDF-издания с объединением двухстраничных портретных разворотов в одну альбомную страницу
 
 
-## LIBRARIES AND APIs
+## БИБЛИОТЕКИ И API
 
-* Platform-specific code for Linux and Windows OS: [SDL](https://www.libsdl.org/)
-* Graphics: [Vulkan](https://vulkan.lunarg.com/sdk/home) + [OpenGL Mathematics](https://github.com/g-truc/glm)
-* Sound: [OpenAL Soft](https://github.com/kcat/openal-soft) + [Ogg Vorbis](https://xiph.org/downloads/)
-* Physics: [Jolt Physics](https://github.com/jrouwe/JoltPhysics)
-
----
-
-* Scripting language: [Lua](https://www.lua.org/download.html)
-* Loading / saving settings: [inifile-cpp](https://github.com/Rookfighter/inifile-cpp)
-* Compression of game archives: [ZXC](https://libzxc.org/)
+* Платформенный код для ОС Linux и Windows: [SDL](https://www.libsdl.org/)
+* Графика: [Vulkan](https://vulkan.lunarg.com/sdk/home) + [OpenGL Mathematics](https://github.com/g-truc/glm)
+* Звук: [OpenAL Soft](https://github.com/kcat/openal-soft) + [Ogg Vorbis](https://xiph.org/downloads/)
+* Физика: [Jolt Physics](https://github.com/jrouwe/JoltPhysics)
 
 ---
 
-* Import-export and model optimization: [cglTF](https://github.com/jkuhlmann/cgltf) + [Draco mesh](https://github.com/google/draco) + [Mesh optimizer](https://github.com/zeux/meshoptimizer)
-* Image import and export: [stb](https://github.com/nothings/stb) (JPEG, PNG, BMP, TGA, GIF, PSD, HDR, PIC и PNM)
-* Block-based texture map compression: [NVIDIA Texture Tools SDK](https://developer.nvidia.com/gpu-accelerated-texture-compression)
+* Скриптовый язык: [Lua](https://www.lua.org/download.html)
+* Загрузка-сохранение настроек: [inifile-cpp](https://github.com/Rookfighter/inifile-cpp)
+* Компрессия игровых архивов: [ZXC](https://libzxc.org/)
 
 ---
 
-### © 2017-2026 • Daniil Petrov
+* Импорт-экспорт и оптимизация моделей: [cglTF](https://github.com/jkuhlmann/cgltf) + [Draco mesh](https://github.com/google/draco) + [Mesh optimizer](https://github.com/zeux/meshoptimizer)
+* Импорт-экспорт изображений: [stb](https://github.com/nothings/stb) (JPEG, PNG, BMP, TGA, GIF, PSD, HDR, PIC и PNM)
+* Блочная компрессия текстурных карт: [NVIDIA Texture Tools SDK](https://developer.nvidia.com/gpu-accelerated-texture-compression)
+
+---
+
+### © 2017-2026 • Даниил Петров
 
 ---
 

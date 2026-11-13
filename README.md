@@ -1,26 +1,27 @@
-# Game Engine «NATiVE ENGiNE»
+# Игровой движок «NATiVE ENGiNE»
 
-![Native Engine Banner](images/Bluesky-Horizontal-Eng.png)
+![Native Engine Banner](images/Bluesky-Horizontal-Ru.png)
 
 •
-[Tools](tools.md) •
-[Utilities](utilities.md) •
-[RU](ru)
+[Инструменты](tools.md) •
+[Утилиты](utilities.md) •
+[Обо Мне](about-me.md)
+[ENG](https://native-engine.github.io/)
 •
 
 ---
 
-I'm developing the «Native Engine» for my future 3D Action, RPG, and Quest projects, featuring first- and third-person controls, and aimed at those who enjoy a good game in their spare time. The engine is being developed and optimized for Linux and Windows PCs from the start; support for other platforms is not planned. The «Native Engine» utilizes open-source and vendor-neutral technologies, and controls will be implemented for keyboard, mouse, gamepad, and possibly VR. In this case, desktop and VR will be supported by a single distribution, without separate desktop and VR distributions. The engine's architecture is optimized for multi-core processors, and game formats are balanced for the optimal balance of «size, quality, and decompression speed».
+Игровой движок «Native Engine» я разрабатываю для своих будущих игровых проектов жанров 3D-Action, RPG и Quest с возможностью выбора управления от 1-го и 3-го лица, и рассчитанных на людей, любящих на досуге сыграть в хорошую игру. Движок изначально разрабатывается и оптимизируется под Linux и Windows ПК, поддержка других платформ не планируется в принципе. В движке «Native Engine» используются свободные и вендоро-независимые технологии, управление будет реализовываться под клавиатуру, мышь, геймпад и, возможно, VR. В этом случае десктоп и VR будут поддерживаться одним дистрибутивом без разделения на десктопный и VR-дистрибутивы. Архитектура движка оптимизирована под многоядерные процессоры, а игровые форматы сбалансированы под оптимальное соотношение «размер / качество / скорость декомпрессии».
 
-The «Native Engine» game engine and the various projects built upon it are being developed by balancing my own requirements with what is technically feasible. Initially, the engine will feature a static scene with a high-quality PBR (physically based rendering) system, along with physics and sound; later, interactive elements, animation, and potentially video playback will be added. As my game development skills evolve, I plan to incorporate features such as cloth and destruction physics, characters, and much more. Since I am a fan of high-quality, narrative-driven games, this engine will not include multiplayer, modding support, or downloadable content (DLC). The primary focus in game development will be on achieving a highly cinematic experience and a compelling, novel-quality story.
-
----
-
-Currently, the engine runtime is being ported from `WinAPI` and `X11` to the `SDL` library and from the `OpenGL` graphics API to `Vulkan` GAPI, while the game object editor is being ported from `GTK` to `Qt`, also transitioning from `OpenGL` graphics API to `Vulkan` GAPI. In the future, the plan is to transition from the original `GLSL` shaders to either `HLSL` or `Slang`.
+Игровой движок «Native Engine» и различные проекты на нём разрабатываются на основе компромисса моих требований и возможностей. Вначале это будет статичная сцена с довольно неплохим PBR-рендером, физика и звук, затем добавятся интерактивное взаимодействие, анимация и, возможно, воспроизведение видео. По мере освоения разработки компьютерных игр будут добавляться физика тканей и разрушений, персонажи и многое другое. Поскольку я являюсь поклонником исключительно качественных сюжетных игр, то в данном игровом движке не будет никакого мультиплеера, модификаций и загружаемого контента (DLC). Главный упор при разработке игр будет делаться на предельную кинематографичность и качественный книжный сюжет.
 
 ---
 
-### © 2017-2026 • Daniil Petrov
+На данный момент идёт портирование рантайма движка с `WinAPI` и `X11` на библиотеку `SDL` и с графического API `OpenGL` на GAPI `Vulkan`, а редактор игровых объектов портируется с `GTK` на `Qt` и также с графического API `OpenGL` на GAPI `Vulkan`. В дальнейшем планируется переход с исходных шейдеров `GLSL` либо на `HLSL`, либо на `Slang`.
+
+---
+
+### © 2017-2026 • Даниил Петров
 
 ---
 
