@@ -6,7 +6,7 @@
 [Home](README.md) •
 [Tools](tools.md) •
 [About Me](about-me.md)
-[RU](ru/utilities.md)
+[RU](ru/utilities.md) •
 •
 
 ---
