@@ -5,7 +5,7 @@
 •
 [Инструменты](tools.md) •
 [Утилиты](utilities.md) •
-[Обо Мне](about-me.md)
+[Обо Мне](about-me.md) •
 [ENG](https://native-engine.github.io/)
 •
 
