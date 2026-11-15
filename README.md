@@ -3,7 +3,7 @@
 ![Native Engine Banner](images/Bluesky-Horizontal-Eng.png)
 
 •
-==&nbsp;Home&nbsp;== •
+Home •
 [Tools](tools.md) •
 [Utilities](utilities.md) •
 [About Me](about-me.md) •
