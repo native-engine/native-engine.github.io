@@ -12,7 +12,7 @@ Utilities •
 
 ---
 
-I develop my own game editors with the goal of replacing a multitude of third-party programs, utilities, and plugins with a single application. For instance, a single game-object editor can handle everything from highly optimizing models and configuring their materials, collisions, joints, and skeletons, to generating presentation-quality renders for online publication. I even use a custom-built utility to assemble Windows icons from a collection of PNG files originally intended for Linux. In the same vein, I fine-tune the functionality and user interface of these editors to perfectly suit my own workflow and preferences.
+I develop my own game editors with the goal of replacing a multitude of third-party programs, utilities, and plugins with a single application. For instance, a single game-object editor can handle everything from highly optimizing models and configuring their materials, collisions, joints, and skeletons, to generating presentation-quality renders for online publication. I even use a [custom-built utility](https://nativeengine.itch.io/icon-builder) to assemble Windows icons from a collection of PNG files originally intended for Linux. In the same vein, I fine-tune the functionality and user interface of these editors to perfectly suit my own workflow and preferences.
 
 ---
 
