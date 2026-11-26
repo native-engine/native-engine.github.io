@@ -28,6 +28,6 @@ The `luac` utility is used for compiling Lua scripts, while the `glslang` utilit
 
 ---
 
-[![itch.io Logo](images/logotypes/itch-io.png)](https://nativeengine.itch.io/)&nbsp;&nbsp;
+[![itch.io Logo](images/logotypes/itch-io.png)](https://nativeengine.itch.io/ "Demos on itch.io")&nbsp;&nbsp;
 [![BlueSky Logo](images/logotypes/bluesky.png)](https://bsky.app/profile/native-engine.bsky.social "English-language blog")&nbsp;&nbsp;
 [![YouTube Logo](images/logotypes/youtube.png)](https://www.youtube.com/@native-engine "YouTube channel")
